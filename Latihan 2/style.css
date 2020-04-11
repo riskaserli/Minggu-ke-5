@@ -1,0 +1,29 @@
+body{
+color:#000;
+font-size:20px;
+font-family: Times New Roman;
+margin:0;
+padding:48px;
+}
+
+h2{
+color:#800080;
+}
+
+ 
+input{
+border-radius:8px;
+-webkit-border-radius:8px;
+-moz-border-radius:8px;
+font-size:18px;
+padding:8px 14px;
+margin:0 1px;
+border:1px solid #888;
+}
+.field{
+width:400px;
+}
+.tombol{
+color:#fff;
+background-color:#BA55D3;
+}
